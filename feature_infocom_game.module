@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Infocom Game Feature feature.
+ */
+
+include_once 'feature_infocom_game.features.inc';
